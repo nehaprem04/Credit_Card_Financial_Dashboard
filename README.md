@@ -1,8 +1,10 @@
-Credit Card Transaction and Customer Dashboard using Power BI
+**Credit Card Transaction and Customer Dashboard using Power BI**
 
-Project Objective : To create a weekly credit card dashboard thatcan provide real-time insights into key metrics and trends, allowing stakeholders to monitor and analyze credit card operations effectively.
+**Project Objective :**
 
-STEPS : 
+To create a weekly credit card dashboard thatcan provide real-time insights into key metrics and trends, allowing stakeholders to monitor and analyze credit card operations effectively.
+
+**STEPS :**
 
         1)Import the CSV files(data)into SQL (PostgreSQL Database)
 
@@ -14,7 +16,29 @@ STEPS :
         
         5)Designing dashboards and create insights
 
-INSIGHTS :
+**INSIGHTS :**
+
+        Week on Week Change :
+        
+                Revenue increased by : 28.8%
+                
+                Total transaction amount and total count increased by 35% and 3.4% respectively
+                
+                Customer count increased by :28.3%
+                
+        Overview :
+        
+                Overall revenue is 57M
+                
+                Total interest is 8M
+                
+                Total transaction amount is  46M
+                
+                Male customers are contributing more in revenue 31M, female 26M
+                
+                Overall activation rate is 57.5%
+                
+                Overall delinquent rate is 6.06%
 
 
 
