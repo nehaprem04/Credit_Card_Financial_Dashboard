@@ -2,7 +2,7 @@
 
 **Project Objective :**
 
-To create a weekly credit card dashboard thatcan provide real-time insights into key metrics and trends, allowing stakeholders to monitor and analyze credit card operations effectively.
+To create a weekly credit card dashboard that can provide real-time insights into key metrics and trends, allowing stakeholders to monitor and analyze credit card operations effectively.
 
 **STEPS :**
 
